@@ -1,0 +1,8 @@
+{
+	"localConf" : "conf/local.js",
+	"baseDataDir": null,
+	"mode": "DEBUG",
+	"logLevel": "ERROR",
+	"maxNumThreads": 4,
+	"stockSymbols": null
+}

@@ -1,0 +1,7 @@
+{
+	"baseDataDir": "/var/data/stock-data",
+	"mode": "DEBUG",
+	"logLevel": 0,
+	"maxNumThreads": 4,
+	"stockSymbols": null
+}

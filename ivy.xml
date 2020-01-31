@@ -1,0 +1,17 @@
+<ivy-module version="2.0">
+    <info organisation="com.disposis" module="StockData"/>
+    <dependencies>
+        <dependency org="commons-logging" name="commons-logging" rev="1.2"/>
+        <dependency org="commons-io" name="commons-io" rev="2.5"/>
+        <dependency org="commons-net" name="commons-net" rev="3.5"/>
+        <dependency org="org.apache.commons" name="commons-csv" rev="1.4"/>
+		<dependency org="org.apache.commons" name="commons-collections4" rev="4.0"/>
+
+        
+        <dependency org="org.json" name="json" rev="20160810"/>
+		<dependency org="com.squareup.okhttp3" name="okhttp" rev="3.12.0"/>
+		<dependency org="com.squareup.okio" name="okio" rev="2.1.0"/>
+		<dependency org="org.jetbrains.kotlin" name="kotlin-stdlib" rev="1.3.10"/>
+
+    </dependencies>
+</ivy-module>
